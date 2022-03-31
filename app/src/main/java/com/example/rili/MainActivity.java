@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         context=this;
+//        asd
         calendarReminderUtils = new CalendarReminderUtils();
         Button button = findViewById(R.id.button);
         Button button2 = findViewById(R.id.button2);
